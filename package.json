@@ -1,0 +1,16 @@
+{
+  "name": "huaylao",
+  "main": "huaylao",
+  "theme": "syntax",
+  "version": "1.1.18",
+  "description": "สมัครหวยลาว ซื้อหวยลาวแทงหวยลาวออนไลน์ จ่ายเยอะที่สุด สามตัวตรงสูงถึงบาทละ 950 ครบคันที่นี่",
+  "keywords": [
+    "สมัครหวยลาว",
+    "แทงหวยลาว"
+  ],
+  "repository": "https://github.com/fufool/huaylao.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
